@@ -1,0 +1,30 @@
+{
+  "name": "magic",
+  "version": "0.0.1",
+  "description": "shop",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "magicRoses",
+    "magic"
+  ],
+  "authors": [
+    "Lord"
+  ],
+  "license": "SAAS",
+  "homepage": "magicRoses",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.5.2",
+    "angular-resource": "~1.5.2",
+    "angular-ui-router": "~0.2.18",
+    "angular-bootstrap": "~1.2.5"
+  }
+}

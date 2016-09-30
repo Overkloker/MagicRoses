@@ -1,0 +1,909 @@
+{
+  "normalRose" : {
+    "0" : {
+      "title" : "Обычные розы",
+      "class" : "item_1",
+      "step2" : true,
+      "showColor" : true,
+      "showSize" : true
+    },
+    "items" : {
+      "19" : {
+        "0" : {
+          "class" : "item_1"
+        },
+        "count" : "19",
+        "title" : "19 роз",
+        "colors" : {
+          "white" : {
+            "img" : "./../../img/rose/19.png",
+            "sizes" : {
+              "60" : {
+                "price" : 2000
+              },
+              "70" : {
+                "price" : 2200
+              },
+              "80" : {
+                "price" : 2400
+              }
+            }
+          },
+          "red" : {
+            "img" : "/../../img/rose/29.png",
+            "sizes" : {
+              "60" : {
+                "price" : 2000
+              },
+              "70" : {
+                "price" : 2200
+              },
+              "80" : {
+                "price" : 2400
+              }
+            }
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 2000
+              },
+              "70" : {
+                "price" : 2200
+              },
+              "80" : {
+                "price" : 2400
+              }
+            }
+          },
+          "pink" : {
+            "img" : "/../../img/rose/39.png",
+            "sizes" : {
+              "60" : {
+                "price" : 2000
+              },
+              "70" : {
+                "price" : 2200
+              },
+              "80" : {
+                "price" : 2400
+              }
+            }
+          }
+        }
+      },
+      "29" : {
+        "0" : {
+          "class" : "item_2"
+        },
+        "count" : "29",
+        "title" : "29 роз",
+        "colors" : {
+          "white" : {
+            "img" : "/../../img/rose/101.png",
+            "sizes" : {
+              "60" : {
+                "price" : 2600
+              },
+              "70" : {
+                "price" : 2900
+              },
+              "80" : {
+                "price" : 3200
+              }
+            }
+          },
+          "red" : {
+            "img" : "/../../img/rose/501.png",
+            "sizes" : {
+              "60" : {
+                "price" : 2600
+              },
+              "70" : {
+                "price" : 2900
+              },
+              "80" : {
+                "price" : 3200
+              }
+            }
+          },
+          "yellow" : {
+            "img" : "/../../img/rose/1001.png",
+            "sizes" : {
+              "60" : {
+                "price" : 2600
+              },
+              "70" : {
+                "price" : 2900
+              },
+              "80" : {
+                "price" : 3200
+              }
+            }
+          },
+          "pink" : {
+            "img" : "/../../img/rose/1001.png",
+            "sizes" : {
+              "60" : {
+                "price" : 2600
+              },
+              "70" : {
+                "price" : 2900
+              },
+              "80" : {
+                "price" : 3200
+              }
+            }
+          }
+        }
+      },
+      "39" : {
+        "0" : {
+          "class" : "item_3"
+        },
+        "count" : "39",
+        "title" : "39 роз",
+        "colors" : {
+          "white" : {
+            "img" : "/../../img/rose/1001.png",
+            "sizes" : {
+              "60" : {
+                "price" : 3200
+              },
+              "70" : {
+                "price" : 3500
+              },
+              "80" : {
+                "price" : 3800
+              }
+            }
+          },
+          "red" : {
+            "img" : "/../../img/rose/1001.png",
+            "sizes" : {
+              "60" : {
+                "price" : 3200
+              },
+              "70" : {
+                "price" : 3500
+              },
+              "80" : {
+                "price" : 3800
+              }
+            }
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 3200
+              },
+              "70" : {
+                "price" : 3500
+              },
+              "80" : {
+                "price" : 3800
+              }
+            }
+          },
+          "pink" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 3200
+              },
+              "70" : {
+                "price" : 3500
+              },
+              "80" : {
+                "price" : 3800
+              }
+            }
+          }
+        }
+      },
+      "51" : {
+        "0" : {
+          "class" : "item_4"
+        },
+        "count" : "51",
+        "title" : "51 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 3700
+              },
+              "70" : {
+                "price" : 4000
+              },
+              "80" : {
+                "price" : 4300
+              }
+            }
+          },
+          "red" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 3700
+              },
+              "70" : {
+                "price" : 4000
+              },
+              "80" : {
+                "price" : 4300
+              }
+            }
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 3700
+              },
+              "70" : {
+                "price" : 4000
+              },
+              "80" : {
+                "price" : 4300
+              }
+            }
+          },
+          "pink" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 3700
+              },
+              "70" : {
+                "price" : 4000
+              },
+              "80" : {
+                "price" : 4300
+              }
+            }
+          }
+        }
+      },
+      "101" : {
+        "0" : {
+          "class" : "item_5"
+        },
+        "count" : "101",
+        "title" : "101 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 6000
+              },
+              "70" : {
+                "price" : 6500
+              },
+              "80" : {
+                "price" : 7000
+              }
+            }
+          },
+          "red" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 6000
+              },
+              "70" : {
+                "price" : 6500
+              },
+              "80" : {
+                "price" : 7000
+              }
+            }
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 6000
+              },
+              "70" : {
+                "price" : 6500
+              },
+              "80" : {
+                "price" : 7000
+              }
+            }
+          },
+          "pink" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 6000
+              },
+              "70" : {
+                "price" : 6500
+              },
+              "80" : {
+                "price" : 7000
+              }
+            }
+          }
+        }
+      },
+      "201" : {
+        "0" : {
+          "class" : "item_6"
+        },
+        "count" : "201",
+        "title" : "201 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 13000
+              },
+              "70" : {
+                "price" : 14500
+              },
+              "80" : {
+                "price" : 16000
+              }
+            }
+          },
+          "red" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 13000
+              },
+              "70" : {
+                "price" : 14500
+              },
+              "80" : {
+                "price" : 16000
+              }
+            }
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 13000
+              },
+              "70" : {
+                "price" : 14500
+              },
+              "80" : {
+                "price" : 16000
+              }
+            }
+          },
+          "pink" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 13000
+              },
+              "70" : {
+                "price" : 14500
+              },
+              "80" : {
+                "price" : 16000
+              }
+            }
+          }
+        }
+      },
+      "301" : {
+        "0" : {
+          "class" : "item_7"
+        },
+        "count" : "301",
+        "title" : "301 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 18000
+              },
+              "70" : {
+                "price" : 20000
+              },
+              "80" : {
+                "price" : 22000
+              }
+            }
+          },
+          "red" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 18000
+              },
+              "70" : {
+                "price" : 20000
+              },
+              "80" : {
+                "price" : 22000
+              }
+            }
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 18000
+              },
+              "70" : {
+                "price" : 20000
+              },
+              "80" : {
+                "price" : 22000
+              }
+            }
+          },
+          "pink" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 18000
+              },
+              "70" : {
+                "price" : 20000
+              },
+              "80" : {
+                "price" : 22000
+              }
+            }
+          }
+        }
+      },
+      "501" : {
+        "0" : {
+          "class" : "item_8"
+        },
+        "count" : "501",
+        "title" : "501 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 45000
+              },
+              "70" : {
+                "price" : 45000
+              },
+              "80" : {
+                "price" : 45000
+              }
+            }
+          },
+          "red" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 45000
+              },
+              "70" : {
+                "price" : 45000
+              },
+              "80" : {
+                "price" : 45000
+              }
+            }
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 45000
+              },
+              "70" : {
+                "price" : 45000
+              },
+              "80" : {
+                "price" : 45000
+              }
+            }
+          },
+          "pink" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 45000
+              },
+              "70" : {
+                "price" : 45000
+              },
+              "80" : {
+                "price" : 45000
+              }
+            }
+          }
+        }
+      },
+      "1001" : {
+        "0" : {
+          "class" : "item_9"
+        },
+        "count" : "1001",
+        "title" : "1001 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 65000
+              },
+              "70" : {
+                "price" : 65000
+              },
+              "80" : {
+                "price" : 65000
+              }
+            }
+          },
+          "red" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 65000
+              },
+              "70" : {
+                "price" : 65000
+              },
+              "80" : {
+                "price" : 65000
+              }
+            }
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 65000
+              },
+              "70" : {
+                "price" : 65000
+              },
+              "80" : {
+                "price" : 65000
+              }
+            }
+          },
+          "pink" : {
+            "img" : "./../img",
+            "sizes" : {
+              "60" : {
+                "price" : 65000
+              },
+              "70" : {
+                "price" : 65000
+              },
+              "80" : {
+                "price" : 65000
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rainbowRose" : {
+    "0" : {
+      "title" : "Радужные розы",
+      "class" : "item_5",
+      "step2" : true,
+      "showColor" : false,
+      "showSize" : false
+    },
+    "items" : {
+      "11" : {
+        "count" : "11",
+        "title" : "11 роз",
+        "price" : 2500
+      },
+      "15" : {
+        "count" : "15",
+        "title" : "15 роз",
+        "price" : 3500
+      },
+      "21" : {
+        "count" : "21",
+        "title" : "21 роза",
+        "price" : 4800
+      },
+      "35" : {
+        "count" : "35",
+        "title" : "35 роз",
+        "price" : 800
+      },
+      "51" : {
+        "count" : "51",
+        "title" : "51 роза",
+        "price" : 11200
+      },
+      "101" : {
+        "count" : "101",
+        "title" : "101 роза",
+        "price" : 19900
+      }
+    }
+  },
+  "blueRose" : {
+    "0" : {
+      "title" : "Синие розы",
+      "class" : "item_4",
+      "step2" : true,
+      "showColor" : false,
+      "showSize" : false
+    },
+    "items" : {
+      "11" : {
+        "count" : "11",
+        "title" : "11 роз",
+        "price" : 2500
+      },
+      "15" : {
+        "count" : "15",
+        "title" : "15 роз",
+        "price" : 3500
+      },
+      "21" : {
+        "count" : "21",
+        "title" : "21 роза",
+        "price" : 4800
+      },
+      "35" : {
+        "count" : "35",
+        "title" : "35 роз",
+        "price" : 800
+      },
+      "51" : {
+        "count" : "51",
+        "title" : "51 роза",
+        "price" : 11200
+      },
+      "101" : {
+        "count" : "101",
+        "title" : "101 роза",
+        "price" : 19900
+      }
+    }
+  },
+  "peonies" : {
+    "0" : {
+      "title" : "Пионы",
+      "class" : "item_6",
+      "step2" : false,
+      "showColor" : false,
+      "showSize" : false,
+      "inputShow" : true,
+      "min" : 11
+    },
+    "price" : "450"
+  },
+  "hydrangeas" : {
+    "0" : {
+      "title" : "Гортензии",
+      "class" : "item_7",
+      "step2" : false,
+      "showColor" : false,
+      "showSize" : false,
+      "inputShow" : true,
+      "min" : 5
+    },
+    "price" : 600
+  },
+  "tulip" : {
+    "0" : {
+      "title" : "Тюльпаны",
+      "class" : "item_8",
+      "step2" : true,
+      "showColor" : false,
+      "showSize" : false
+    },
+    "items" : {
+      "31" : {
+        "count" : "31",
+        "title" : "31 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "price" : 2200
+          },
+          "red" : {
+            "img" : "./../img",
+            "price" : 2200
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "price" : 2200
+          },
+          "pink" : {
+            "img" : "./../img",
+            "price" : 2200
+          }
+        }
+      },
+      "51" : {
+        "count" : "51",
+        "title" : "51 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "price" : 3200
+          },
+          "red" : {
+            "img" : "./../img",
+            "price" : 3200
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "price" : 3200
+          },
+          "pink" : {
+            "img" : "./../img",
+            "price" : 3200
+          }
+        }
+      },
+      "101" : {
+        "count" : "101",
+        "title" : "101 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "price" : 5000
+          },
+          "red" : {
+            "img" : "./../img",
+            "price" : 5000
+          },
+          "yellow" : {
+            "img" : "./../img",
+            "price" : 5000
+          },
+          "pink" : {
+            "img" : "./../img",
+            "price" : 5000
+          }
+        }
+      }
+    }
+  },
+  "giantsRose" : {
+    "0" : {
+      "title" : "Розы - гиганты",
+      "class" : "item_3",
+      "step2" : false,
+      "showColor" : false,
+      "showSize" : false,
+      "inputShow" : true,
+      "min" : 11,
+      "showSizingInput" : true
+    },
+    "price" : 550
+  },
+  "shrubRose" : {
+    "0" : {
+      "title" : "Кустовые розы",
+      "class" : "item_2",
+      "step2" : true,
+      "showColor" : false,
+      "showSize" : false
+    },
+    "items" : {
+      "31" : {
+        "count" : "31",
+        "title" : "31 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "price" : 3500
+          },
+          "red" : {
+            "img" : "./../img",
+            "price" : 3500
+          },
+          "pink" : {
+            "img" : "./../img",
+            "price" : 3500
+          },
+          "peach" : {
+            "img" : "./../img",
+            "price" : 3500
+          },
+          "orange" : {
+            "img" : "./../img",
+            "price" : 3500
+          }
+        }
+      },
+      "51" : {
+        "count" : "51",
+        "title" : "51 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "price" : 5000
+          },
+          "red" : {
+            "img" : "./../img",
+            "price" : 5000
+          },
+          "pink" : {
+            "img" : "./../img",
+            "price" : 5000
+          },
+          "peach" : {
+            "img" : "./../img",
+            "price" : 5000
+          },
+          "orange" : {
+            "img" : "./../img",
+            "price" : 5000
+          }
+        }
+      },
+      "101" : {
+        "count" : "101",
+        "title" : "101 роза",
+        "colors" : {
+          "white" : {
+            "img" : "./../img",
+            "price" : 9000
+          },
+          "red" : {
+            "img" : "./../img",
+            "price" : 9000
+          },
+          "pink" : {
+            "img" : "./../img",
+            "price" : 9000
+          },
+          "peach" : {
+            "img" : "./../img",
+            "price" : 9000
+          },
+          "orange" : {
+            "img" : "./../img",
+            "price" : 9000
+          }
+        }
+      }
+    }
+  },
+  "hatboxRose" : {
+    "0" : {
+      "title" : "Розы в шляпной коробке",
+      "class" : "item_9",
+      "step2" : true,
+      "showColor" : false,
+      "showSize" : false
+    },
+    "items" : {
+      "25" : {
+        "count" : "25",
+        "title" : "25 роз",
+        "price" : 4000
+      },
+      "39" : {
+        "count" : "39",
+        "title" : "39 роз",
+        "price" : 5000
+      },
+      "101" : {
+        "count" : "101",
+        "title" : "101 роза",
+        "price" : 8000
+      }
+    }
+  }
+}

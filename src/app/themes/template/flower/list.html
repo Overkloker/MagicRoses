@@ -1,0 +1,33 @@
+<div>
+    <div class="item pick col-lg-4 col-md-6 col-sm-12 col-xs-12"
+         ng-class="'item_'+($index+1)"
+         ng-repeat="item in data.items" ng-style="{'background-image': 'url({{item.colors.white.img}})'}">
+        <!-- Цвет -->
+        <div class="pick_color pick_color_rose"
+             ng-show="data[0].showColor">
+            <p>Цвет</p>
+            <div class="color_box"
+                 ng-class="key"
+                 ng-click="selectColor(key)"
+                 ng-repeat="(key, val) in item.colors"></div>
+        </div>
+        
+        <!-- Размер -->
+        <div class="pick_size"
+             ng-show="data[0].showSize">
+            <p>Размер</p>
+            <div class="color_box size_box size_60"
+                 ng-class="{'active': size == sizeKey}"
+                 ng-click="selectSize(sizeKey)"
+                 ng-repeat="(sizeKey, sizeVal) in item.colors[color].sizes"
+                 ng-bind="sizeKey"></div>
+        </div>
+        
+        <div class="name_item"
+             ng-bind="item.title"></div>
+        <div class="buy_item btn_apply"
+             ng-click="selectItem(item)">выбрать
+        </div>
+    </div>
+</div>
+<p class="btn_apply cencel" ui-sref="front.index">Назад</p>

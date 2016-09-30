@@ -1,0 +1,61 @@
+<p class="btn_apply cencel btn-cencel-mod" ng-click="prevPage()">Назад</p>
+
+<div class="clearfix">
+    <!-- INFA -->
+    <div class="col-lg-4">
+        <div class="flower_albom col-lg-12"></div>
+        <div class="flower_info col-lg-12">
+            <h1 class="flower_item_name"
+                ng-bind="$root.title"></h1>
+            <p ng-if="$root.showColor">Цвет: <span class="flower_item_color"
+                                                   ng-bind="color"></span></p>
+            <p ng-if="$root.showSize">Длина: <span class="flower_item_size"
+                                                   ng-bind="length"></span> см.</p>
+            <p ng-if="item[0].showSizingInput">Длина:
+                <span class="flower_item_number"
+                      ng-bind="count"></span>
+                <input type="number"
+                       min="150"
+                       max="180"
+                       step="10"
+                       ng-model="lengthItem"> см.
+            </p>
+            <p>Кол-во:
+                <span class="flower_item_number"
+                      ng-bind="count"></span>
+                <input type="number"
+                       min="{{item[0].min}}"
+                       ng-if="item[0].inputShow"
+                       ng-model="countItem"
+                       ng-change="calculationPrice(countItem)"> шт.
+            </p>
+            
+            
+            <h6>Итого:</h6>
+            <p class="result_p">
+                <span class="result"
+                      ng-bind="price + additionPrice"></span> Р.
+            </p>
+        </div>
+    </div>
+    <!-- DOP -->
+    <div class="col-lg-8">
+        <div class="dop_block col-lg-6 {{pack.class}}"
+             ng-class="{'disabled-pack':count<101 && $index>3}"
+             ng-repeat="pack in packages">
+            <div class="dop_block_center"
+                 ng-class="pack.img">
+                <h2 ng-bind="pack.title"></h2>
+                <p ng-if="count < 501 || (count >= 501 && $index != 4) || (count===undefined)"
+                   ng-bind="pack.price + ' р.'"></p>
+                <p ng-if="count >= 501 && $index == 4">В подарок</p>
+                
+                <div class="btn_apply"
+                     ng-if="count < 501 || (count >= 501 && $index != 4) || (count===undefined)"
+                     ng-class="{'active':$index == selected}"
+                     ng-click="addPack(pack, $index)">Добавить
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
