@@ -16,7 +16,7 @@
         "title" : "19 роз",
         "colors" : {
           "white" : {
-            "img" : "./../../img/rose/19.png",
+            "img" : "/img/19.png",
             "sizes" : {
               "60" : {
                 "price" : 2000
@@ -30,7 +30,7 @@
             }
           },
           "red" : {
-            "img" : "/../../img/rose/29.png",
+            "img" : "/img/29.png",
             "sizes" : {
               "60" : {
                 "price" : 2000
@@ -58,7 +58,7 @@
             }
           },
           "pink" : {
-            "img" : "/../../img/rose/39.png",
+            "img" : "/img/39.png",
             "sizes" : {
               "60" : {
                 "price" : 2000
@@ -81,7 +81,7 @@
         "title" : "29 роз",
         "colors" : {
           "white" : {
-            "img" : "/../../img/rose/101.png",
+            "img" : "/img/101.png",
             "sizes" : {
               "60" : {
                 "price" : 2600
@@ -95,7 +95,7 @@
             }
           },
           "red" : {
-            "img" : "/../../img/rose/501.png",
+            "img" : "/img/501.png",
             "sizes" : {
               "60" : {
                 "price" : 2600
@@ -109,7 +109,7 @@
             }
           },
           "yellow" : {
-            "img" : "/../../img/rose/1001.png",
+            "img" : "/img/1001.png",
             "sizes" : {
               "60" : {
                 "price" : 2600
@@ -123,7 +123,7 @@
             }
           },
           "pink" : {
-            "img" : "/../../img/rose/1001.png",
+            "img" : "/img/1001.png",
             "sizes" : {
               "60" : {
                 "price" : 2600
@@ -146,7 +146,7 @@
         "title" : "39 роз",
         "colors" : {
           "white" : {
-            "img" : "/../../img/rose/1001.png",
+            "img" : "/img/1001.png",
             "sizes" : {
               "60" : {
                 "price" : 3200
@@ -160,7 +160,7 @@
             }
           },
           "red" : {
-            "img" : "/../../img/rose/1001.png",
+            "img" : "/img/1001.png",
             "sizes" : {
               "60" : {
                 "price" : 3200
